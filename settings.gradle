@@ -1,0 +1,2 @@
+rootProject.name = "DogListRetroFit"
+include ':app'
